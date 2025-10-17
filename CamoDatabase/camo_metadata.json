@@ -35,7 +35,7 @@
     "Type": "Temperate/Forest",
     "LATITUDE_RANGE": "TEMPERATE"
   },
-  "UCP.jpg": {
+  "ucp.jpg": {
     "Type": "Urban",
     "LATITUDE_RANGE": "ANY"
   },
@@ -69,3 +69,4 @@
     "LATITUDE_RANGE": "POLAR,TEMPERATE"
   }
 }
+
