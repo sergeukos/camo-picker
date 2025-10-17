@@ -1,0 +1,73 @@
+{
+  "AtacsAU.png": {
+    "Type": "Arid/Urban",
+    "LATITUDE_RANGE": "TEMPERATE,TROPICAL"
+  },
+  "emr.png": {
+    "Type": "Forest/Temperate",
+    "LATITUDE_RANGE": "TEMPERATE,POLAR"
+  },
+  "marpatdesert.jpg": {
+    "Type": "Arid/Desert",
+    "LATITUDE_RANGE": "TEMPERATE,TROPICAL"
+  },
+  "MulticamORIGINAL.jpg": {
+    "Type": "Transitional",
+    "LATITUDE_RANGE": "ANY"
+  },
+  "MulticamALPINE.jpg": {
+    "Type": "Snow/Alpine",
+    "LATITUDE_RANGE": "POLAR,TEMPERATE"
+  },
+  "MulticamARID.jpg": {
+    "Type": "Arid/Desert",
+    "LATITUDE_RANGE": "TEMPERATE"
+  },
+  "MulticamTROPIC.jpg": {
+    "Type": "Tropical",
+    "LATITUDE_RANGE": "TROPICAL,TEMPERATE"
+  },
+  "multicamblack.jpg": {
+    "Type": "Industrial/LowVA",
+    "LATITUDE_RANGE": "ANY"
+  },
+  "Flecktarn.jpg": {
+    "Type": "Temperate/Forest",
+    "LATITUDE_RANGE": "TEMPERATE"
+  },
+  "UCP.jpg": {
+    "Type": "Urban",
+    "LATITUDE_RANGE": "ANY"
+  },
+  "Woodland.png": {
+    "Type": "Woodland/Forest",
+    "LATITUDE_RANGE": "TEMPERATE,TROPICAL"
+  },
+  
+  // --- НОВЫЕ КАМУФЛЯЖИ ---
+  "OMON_kamysh.jpg": {
+    "Type": "Urban/Transitional",
+    "LATITUDE_RANGE": "TEMPERATE,POLAR"
+  },
+  "PencottGreenzone.jpg": {
+    "Type": "Forest/Temperate",
+    "LATITUDE_RANGE": "TEMPERATE"
+  },
+  "atacsfg.jpg": {
+    "Type": "Forest/Transitional",
+    "LATITUDE_RANGE": "TEMPERATE,TROPICAL"
+  },
+  "ssleto.jpg": {
+    "Type": "Forest/Dense",
+    "LATITUDE_RANGE": "TEMPERATE"
+  },
+  "Flora.jpg": {
+    "Type": "Woodland/Temperate",
+    "LATITUDE_RANGE": "TEMPERATE,TROPICAL"
+  },
+  "PenCottSNOWDRIFT.jpg": {
+    "Type": "Snow/Winter",
+    "LATITUDE_RANGE": "POLAR,TEMPERATE"
+  }
+  // -------------------------
+}
