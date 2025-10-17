@@ -43,8 +43,7 @@
     "Type": "Woodland/Forest",
     "LATITUDE_RANGE": "TEMPERATE,TROPICAL"
   },
-  
-  // --- НОВЫЕ КАМУФЛЯЖИ ---
+
   "OMON_kamysh.jpg": {
     "Type": "Urban/Transitional",
     "LATITUDE_RANGE": "TEMPERATE,POLAR"
@@ -70,4 +69,5 @@
     "LATITUDE_RANGE": "POLAR,TEMPERATE"
   }
   // -------------------------
+
 }
